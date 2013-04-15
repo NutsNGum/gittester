@@ -1,1 +1,0 @@
-HELLO THERE. This is wank.md file.
